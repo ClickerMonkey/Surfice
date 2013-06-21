@@ -51,8 +51,10 @@ service.stop();
 ```
 
 **Builds**
-
-https://github.com/ClickerMonkey/surfice/tree/master/build
+- [surfice-1.0.0.jar](https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-1.0.0.jar?raw=true)
+- [surfice-src-1.0.0.jar](https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-src-1.0.0.jar?raw=true) *- includes source code*
+- [surfice-all-1.0.0.jar](https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-1.0.0.jar?raw=true) *- includes all dependencies*
+- [surfice-all-src-1.0.0.jar](https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Projects using surfice:**
 - [taskaroo](https://github.com/ClickerMonkey/taskaroo)
@@ -64,5 +66,4 @@ https://github.com/ClickerMonkey/surfice/tree/master/build
 - [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
 
 **Testing Examples**
-
-https://github.com/ClickerMonkey/surfice/tree/master/Testing/org/magnos/service
+- [Testing/org/magnos/service](https://github.com/ClickerMonkey/surfice/tree/master/Testing/org/magnos/service)
