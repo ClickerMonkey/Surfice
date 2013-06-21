@@ -54,6 +54,15 @@ service.stop();
 
 https://github.com/ClickerMonkey/surfice/tree/master/build
 
+**Projects using surfice:**
+- [taskaroo](https://github.com/ClickerMonkey/taskaroo)
+- [statastic](https://github.com/ClickerMonkey/statastic)
+- [falcon](https://github.com/ClickerMonkey/falcon)
+
+**Dependencies**
+- [curity](https://github.com/ClickerMonkey/curity)
+- [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
+
 **Testing Examples**
 
 https://github.com/ClickerMonkey/surfice/tree/master/Testing/org/magnos/service
