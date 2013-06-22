@@ -8,6 +8,9 @@ A Java library centered around the concept of a Service, which is a glorified th
 - A service can be interrupted in several fashions, it can be paused/stopped immediately, after it's done executing the current task, after it's done handling events, or after the service is done entirely.
 - A service can have multiple listeners that are notified when it receives an event, it has just executed it's main piece of code, it has started, it has been paused, it was resumed, and it has stopped.
 
+**Documentation**
+- [JavaDoc](http://clickermonkey.github.com/surfice/)
+
 **Example**
 
 ```java
