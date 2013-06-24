@@ -9,7 +9,7 @@ A Java library centered around the concept of a Service, which is a glorified th
 - A service can have multiple listeners that are notified when it receives an event, it has just executed it's main piece of code, it has started, it has been paused, it was resumed, and it has stopped.
 
 **Documentation**
-- [JavaDoc](http://clickermonkey.github.com/surfice/)
+- [JavaDoc](http://gh.magnos.org/?r=http://clickermonkey.github.com/surfice/)
 
 **Example**
 
@@ -59,19 +59,19 @@ service.stop();
 ```
 
 **Builds**
-- [surfice-1.0.0.jar](https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-1.0.0.jar?raw=true)
-- [surfice-src-1.0.0.jar](https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-src-1.0.0.jar?raw=true) *- includes source code*
-- [surfice-all-1.0.0.jar](https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-1.0.0.jar?raw=true) *- includes all dependencies*
-- [surfice-all-src-1.0.0.jar](https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
+- [surfice-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-1.0.0.jar?raw=true)
+- [surfice-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-src-1.0.0.jar?raw=true) *- includes source code*
+- [surfice-all-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-1.0.0.jar?raw=true) *- includes all dependencies*
+- [surfice-all-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/surfice/blob/master/build/surfice-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Projects using surfice:**
-- [taskaroo](https://github.com/ClickerMonkey/taskaroo)
-- [statastic](https://github.com/ClickerMonkey/statastic)
-- [falcon](https://github.com/ClickerMonkey/falcon)
+- [taskaroo](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/taskaroo)
+- [statastic](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/statastic)
+- [falcon](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/falcon)
 
 **Dependencies**
-- [curity](https://github.com/ClickerMonkey/curity)
-- [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
+- [curity](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/curity)
+- [testility](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/testility) *for unit tests*
 
 **Testing Examples**
-- [Testing/org/magnos/service](https://github.com/ClickerMonkey/surfice/tree/master/Testing/org/magnos/service)
+- [Testing/org/magnos/service](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/surfice/tree/master/Testing/org/magnos/service)
